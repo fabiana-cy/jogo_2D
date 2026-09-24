@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 15f;
     private Rigidbody2D rb;
     private bool isGrounded = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -22,7 +22,7 @@ public class player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            rb.AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse);//basicamente essa linha de código vai fazer nosso pleyer pular o forcemode2d.impulse, oque tá antes dele é a força dele e ele é o impulso écomo um soco o Forcemode é o movimento
+            rb.AddForce(new Vector2(0f, 15f), ForceMode2D.Impulse);//basicamente essa linha de código vai fazer nosso pleyer pular o forcemode2d.impulse, oque tá antes dele é a força dele e ele é o impulso écomo um soco o Forcemode é o movimento
             //e o new vector é a força desse soco, que no caso é 5 e é para cima.
 
         }
@@ -32,7 +32,7 @@ public class player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isGrounded = true; //vai reconhecer quando o jogador está no chão.''
+            isGrounded = true; //vai reconhecer quando o jogador está no chão.
         }
 
     }

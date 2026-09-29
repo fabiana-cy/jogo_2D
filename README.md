@@ -13,3 +13,9 @@ aula, vimos um vídeo sobre também, que inclusive, é bem interessante, vamos f
 sozinhos depois, quanto para adicionarmos ela ao GDD, vimos sobre o Rigidbory que é basicamente a física do nosso personagem, mas, 
 também pode ser usado para outras coisas no futuro. GetComponent recebe o valor do Rigidbory e manda para outro lugar. Vimos também sobre 
 linearvelocity que é a velocidade linear KM/HR, o vector2 é o eixo x e y(cima, baixo e esquerda, direita). 
+
+22/09 - Nessa aula limitamos o pulo do player que na ultima aula tinha ficado infinito, ajeitamos a movimentação e colocamos a câmera 
+para seguir o nosso player.
+
+24/09 - começamos a mudar o nosso cenário, eu não conseguir mexer muito pois minhas queridas abilidades não me permitiram passar nem do basico :(
+mas n próx aula irei me esforçar!

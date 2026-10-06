@@ -19,3 +19,8 @@ para seguir o nosso player.
 
 24/09 - começamos a mudar o nosso cenário, eu não conseguir mexer muito pois minhas queridas abilidades não me permitiram passar nem do basico :(
 mas n próx aula irei me esforçar!
+
+29/09 - Fizemos o código do player tentei fazer o espaço do jogo mas tive que apagar tudo no final.
+
+06/10 - Finalmente terminei o jogo (eu acho) fiz a nova mecânina da princesa coloquei os obstáculos fiz a água dar dano e o principe chegando, a 
+princesa o Vini disse que vai ter menu então dps eu vou voltar ao jogo 2D.

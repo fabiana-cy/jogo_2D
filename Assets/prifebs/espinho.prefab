@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1624810666380095686}
   m_Layer: 0
   m_Name: espinho
-  m_TagString: Untagged
+  m_TagString: Dano
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

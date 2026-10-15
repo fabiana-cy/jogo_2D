@@ -24,3 +24,5 @@ mas n próx aula irei me esforçar!
 
 06/10 - Finalmente terminei o jogo (eu acho) fiz a nova mecânina da princesa coloquei os obstáculos fiz a água dar dano e o principe chegando, a 
 princesa o Vini disse que vai ter menu então dps eu vou voltar ao jogo 2D.
+
+08/10 - criei uma nova fase ainda não programei ela mas vou arrumar.

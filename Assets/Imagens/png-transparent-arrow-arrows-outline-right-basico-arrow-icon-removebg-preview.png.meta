@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      png-transparent-arrow-arrows-outline-right-basico-arrow-icon-removebg-preview_0: -4826209861358886943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

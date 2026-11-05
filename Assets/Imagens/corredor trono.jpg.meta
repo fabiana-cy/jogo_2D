@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      corredor trono_0: -93497604252418800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

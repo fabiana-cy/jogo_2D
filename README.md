@@ -28,3 +28,6 @@ princesa o Vini disse que vai ter menu então dps eu vou voltar ao jogo 2D.
 08/10 - criei uma nova fase ainda não programei ela mas vou arrumar.
 
 15/10 - inicio do menu de morte, ainda não configuramos o botão mas o resto está em ordem.
+
+17/11 - Dia de vistos mas consegui dar uma ajeitada no meu jogo após o mundo senai.
+

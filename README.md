@@ -31,3 +31,5 @@ princesa o Vini disse que vai ter menu então dps eu vou voltar ao jogo 2D.
 
 17/11 - Dia de vistos mas consegui dar uma ajeitada no meu jogo após o mundo senai.
 
+19/11 - Dia de vistos de verdade, consegui arrumar o jogo arrumei os problemas arrumei tudo, ele tá pronto!
+

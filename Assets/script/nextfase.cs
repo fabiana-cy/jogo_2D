@@ -7,8 +7,7 @@ public class nextfase : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            int cenaAtualIndex = SceneManager.GetActiveScene().buildIndex;
-            SceneManager.LoadScene(cenaAtualIndex + 1);
+            SceneManager.LoadScene(2);
         }
     }
 }
